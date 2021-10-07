@@ -1,5 +1,11 @@
 # Minigun in r5
-R5 Reloaded Gun/Other scripts I have made
+R5 Reloaded minigun "S.H.E.I.L.A"
+
+Patch Notes v0.2.2:
+
+1) Added name "S.H.E.I.L.A" Also known as Ramparts minigun but just without the model.
+2) Added Gold Mag
+3) Works with JANUs Framework 1.0 and 2.0
 
 Please do not repost these scripts saying there yours, because they arent. So yeah i've warned you...
 
