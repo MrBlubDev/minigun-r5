@@ -23,7 +23,7 @@ WeaponData
     "damage_flags"									"DF_BULLET | DF_GIB | DF_DISMEMBERMENT"
 
 	// Menu
-	"menu_category"                                 "ar"
+	"menu_category"                                 "lmg"
 	"menu_anim_class"                               "medium"
 	"stat_damage" 									"75"
 	"stat_range"  									"65"
@@ -153,9 +153,9 @@ WeaponData
 	dof_zoom_focusArea_bottom						-0.041
 
 	// Behavior
-	"fire_rate"   									"11.2"
+	"fire_rate"   									"13.2"
 
-	"reload_time" 									"5.2"
+	"reload_time" 									"4.2"
 	"reload_time_late1"								"2.2"
 	"reloadempty_time"								"5.2"
 	"reloadempty_time_late1"						"2.2"
@@ -300,6 +300,11 @@ WeaponData
 			"fire_rate"					 "20.2"
 			"npc_damage_near_value"      "30"
 
+		}
+
+		hopup_supermag
+		{
+			"ammo_clip_size"			"*3"
 		}
 
         hopup_selectfire

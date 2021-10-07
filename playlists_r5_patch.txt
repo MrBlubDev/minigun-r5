@@ -277,7 +277,7 @@
 				m4.03t9_class                                   "lmg"
 				weapon_cp_weapon					1
 
-				custom_hopup_list					"hopup_hotfire"
+				custom_hopup_list					"hopup_hotfire hopup_supermag"
 				custom_hopup_override_weapon_attachments				"1"
 
 				hopup_hotfire_name					"Hot Fire"
@@ -290,7 +290,17 @@
 				hopup_hotfire_low_chance				1.2
 				hopup_hotfire_med_chance				3
 				hopup_hotfire_high_chance				0.7
+
+				hopup_supermag_name					"Super Mag"
+				hopup_supermag_desc						"Times the current mag by 3"
+				hopup_supermag_tier						"4"
+				hopup_supermag_icon						"rui/pilot_loadout/mods/light_mag"
+				hopup_supermag_model					"mdl/weapons_r5/loot/_master/w_loot_wep_mods_mag_v1b.rmdl"
+				hopup_supermag_slot						"mag"
 				
+				hopup_supermag_low_chance				1.2
+				hopup_supermag_med_chance				3
+				hopup_supermag_high_chance				0.7
 				
 				///////////////////////////////////////////////////////////////////////////////////
 				///////////////////////////////////////////////////////////////////////////////////
