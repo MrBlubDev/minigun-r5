@@ -26,7 +26,7 @@ How to install: (Updated installations)
 
  # Framework 1.0 - 2.0 Release script notes
 
- Hello. I made a script or something along those lines that allows you to use both framework 1.0 - 2.0 which i'm pretty happy about but this script also is private for now. If you have framework 1.0 soon there will be a 1.0 release but I highly recommend 2.0 if you want less unpleasent gameplay.
+ Hello. I made a script or something along those lines that allows you to use both framework 1.0 - 2.0 which i'm pretty happy about but this script also is private for now. If you have framework 1.0 soon there will be a 1.0 release but I highly recommend 2.0 if you want pleasant gameplay.
 
  DM me on discord Mr. Blub#5299 if you have problems.
 
