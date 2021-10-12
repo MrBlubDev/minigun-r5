@@ -1,19 +1,32 @@
-# Minigun in r5
-R5 Reloaded minigun "S.H.E.I.L.A"
+# Updated README - Minigun R5
 
-Patch Notes v0.2.2:
+Patch Notes v0.2:
 
-1) Added name "S.H.E.I.L.A" Also known as Ramparts minigun but just without the model.
-2) Added Gold Mag
-3) Works with JANUs Framework 1.0 and 2.0
+- Name now SHIELA (dont ask why)
+- Fixed issue with mags (read issues on my github)
+- Works with framework 1.0 and 2.0 (read below for help on this one)
 
-Please do not repost these scripts saying there yours, because they arent. So yeah i've warned you...
+How to install: (Updated installations)
 
-INSTRUCTIONS*: If u are adding my Minigun, add everything in the Dev Playlist Vars bit of the playlist script for the weapon to work.
+ Framework 1.0 Installation (PRIVATE)
 
-Easier to understand guide:
+ ******************************************************************************************
+ ******************************************************************
+ *****************************************
+ ********************************
 
-1) Put the mp_weapon_m4.03t9 script in the weapons folder.
-2) Add everything in the Dev Playlist vars section of playlist file.
-3) Add it to the dev menu in scripts\vscripts\ai\sh_dev_npc_settings\
-4) Finally, precache it in _mapspawn.gnut in the vscripts folder
+ Framework 2.0 Installation (PUBLIC)
+
+ Drag and drop the script into platform/scripts/weapons
+ Then, drag and drop the playlist_r5_patch into platform folder and replace. (Highly recommend backing up your platform folder first)
+ Next, Add it to the dev menu by going to platform/vscripts/ai/sh_dev_npc_settings.gnut
+ Finally run the game and fingers crossed it wont crash!
+
+ You can also precache it in _mapspawn script but you dont have to.
+
+ # Framework 1.0 - 2.0 Release script notes
+
+ Hello. I made a script or something along those lines that allows you to use both framework 1.0 - 2.0 which i'm pretty happy about but this script also is private for now. If you have framework 1.0 soon there will be a 1.0 release but I highly recommend 2.0 if you want less unpleasent gameplay.
+
+ DM me on discord Mr. Blub#5299 if you have problems.
+
